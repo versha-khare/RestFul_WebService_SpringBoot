@@ -1,0 +1,12 @@
+insert into user values(100 , sysDate() , 'AB' );
+insert into user values(200 ,  sysDate() ,'Jack' );
+insert into user values(300 , sysDate() , 'Jill');
+insert into user values(400 ,  sysDate() , 'James' );
+insert into user values(500 , sysDate(), 'versha');
+insert into post values(11 , 'field1' , 100);
+insert into post values(22 , 'field2' , 200);
+insert into post values(33 , 'field3' , 300);
+insert into post values(44, 'field4' , 400);
+insert into post values(55, 'field5' , 500);
+insert into post values(66, 'field6' , 100);
+insert into post values(77, 'field7' , 200);
